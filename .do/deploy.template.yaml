@@ -1,5 +1,5 @@
 spec:
-  name: hello-world-web
+  name: app-web
   region: sfo
   static_sites:
     - build_command: npm run build
